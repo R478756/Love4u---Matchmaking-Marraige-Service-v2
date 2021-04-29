@@ -1,4 +1,6 @@
 $(document).ready(function() {
+    
+    $(".nav-bar").sticky({topSpacing:0});
 
   //  Owl-carousel Slide
   $('.owl-carousel').owlCarousel({

@@ -1,0 +1,642 @@
+@media only screen and (min-width: 768px) and (max-width:900px) {
+	.below-header .col-md-8 , .below-header .col-md-4{
+	    flex: 50%;
+	    max-width: 50%;
+	}
+    .header-text h1 {
+        font-size: 80px;
+        padding-top: 100px;
+    }
+    span#typed {
+        font-size: 50px;
+    }
+    .header-text p {
+        font-size: 16px;
+    }
+    .text-left h2 {
+        font-size: 40px;
+    }
+    .text-left p {
+        font-size: 18px;
+    }
+    .text-left a {
+        font-size: 15px;
+    }
+    .form-right label {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .form-right form {
+        padding: 40px;
+        margin-top: -155px;
+    }
+    .form-right label {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .form-right form select {
+        padding: 3px;
+        background: linear-gradient(90deg, rgb(238, 174, 202) 0%, rgb(238, 174, 202) 13%, rgb(148, 187, 233) 83%, rgb(148, 187, 233) 100%);
+        font-size: 15px;
+    }
+    .form-right form i {
+        margin-top: 0px;
+    }
+    .heart-background-below-header img {
+        width: 220px;
+    }
+    .heart-background-below-header {
+        top: 108px;
+        width: 76%;
+        height: 70%;
+    }
+    .heart-background-couple {
+        width: 20%;
+        height: 20%;
+    }
+    .heart-background-couple img {
+        width: 210px;
+    }
+    .couple-text h4 {
+        font-size: 60px;
+    }
+    .couple-text p {
+        font-size: 18px;
+    }
+    .couple-img {
+        margin-left: -62px;
+        margin-top: 87px;
+        padding: 5px;
+        width: 159%;
+    }
+    .couple-box-text {
+        padding: 15px 20px 34px 30px;
+    }
+    .couple-box-text h4 {
+        font-size: 25px;
+    }
+    .couple-box span {
+        font-size: 14px;
+    }
+    .story-text h4 {
+        font-size: 50px;
+    }
+    .story-text p {
+        font-size: 15px;
+    }
+    .couple-img-left img {
+        padding: 5px;
+    }
+    .couple-box-text-left {
+        padding: 35px 60px 35px 45px;
+        margin-left: -120px;
+        margin-top: 100px;
+    }
+    .couple-box-text-left:hover {
+        padding: 35px 60px 35px 45px;
+        margin-left: -120px;
+        margin-top: 100px;
+    }
+    .couple-box-text-left h4 {
+        font-size: 25px;
+    }
+    .couple-box-text-left span {
+        font-size: 14px;
+    }
+    .apps-text h4 {
+        font-size: 70px;
+    }
+    .apps-text p {
+        font-size: 20px;
+    }
+    .store img {
+        width: 20%;
+    }
+    a.nav-link.btn-login {
+        padding: 2px 5px;
+        width: 60px;
+    }
+    .story-box-text h4 {
+        font-size: 35px;
+    }
+    .story-box-text span {
+        font-size: 15px;
+    }
+    .story-box-text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .slider h4 {
+        font-size: 55px;
+    }
+    .owl-carousel .owl-item img {
+        width: 13%;
+    }
+    .item p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .heart-story-background {
+        width: 20%;
+        height: 10%;
+    }
+    .footer {
+        padding: 30px 0;
+    }
+    .btn-story a {
+        font-size: 15px;
+    }
+    .form-right form input {
+        padding: 3px;
+        background: linear-gradient(90deg, rgb(238, 174, 202) 0%, rgb(238, 174, 202) 13%, rgb(148, 187, 233) 83%, rgb(148, 187, 233) 100%);
+        font-size: 15px;
+    }
+    /* ========= Couple Page Starts ======= */
+    /* ========= Couple Page ENDS ======= */
+    
+    /* ========= Stories Page Starts ======= */
+    /* ========= Stories Page ENDS ======= */
+
+}
+
+
+
+
+@media only screen and (min-width: 380px) and (max-width: 767px) {
+
+    /* ========= Home Page STARTS ======= */
+
+    body{
+        overflow-x: hidden !important;
+    }
+    span#typed {
+        font-size: 60px;
+    }
+    .header-text h1 {
+        font-size: 80px;
+        text-align: center;
+        padding: 0px;
+    }
+    .header-text p {
+        text-align: center;
+        font-size: 16px;
+        width: 100%
+    }
+    .head-img {
+        width: 90%;
+    }
+    .text-left h2 {
+        font-size: 43px;
+        
+    }
+    .form-right form {
+        margin: 59px;
+        padding: 20px;
+    }
+    .form-right form i {
+        margin-left: 50%;
+        padding: 5px 0;
+        transform: rotate(90deg);
+    }
+    .form-right form select {
+        padding: 6px;
+        font-size: 14px;
+        background: linear-gradient(90deg, rgb(238, 174, 202) 0%, rgb(238, 174, 202) 13%, rgb(148, 187, 233) 83%, rgb(148, 187, 233) 100%);
+    }
+    .form-right form input {
+        padding: 6px;
+        font-size: 14px;
+        background: linear-gradient(90deg, rgb(238, 174, 202) 0%, rgb(238, 174, 202) 13%, rgb(148, 187, 233) 83%, rgb(148, 187, 233) 100%);
+    }
+    .button{
+        font-size: 18px;
+    }
+    .form-right label {
+        font-size: 18px;
+         margin-bottom: 15px;
+    }
+    .heart-background-below-header img {
+        width: 195px;
+    }
+    .heart-background-below-header {
+        position: absolute;
+        top: 6px;
+        right: 335px;
+        content: "";
+        width: 57%;
+        height: 60%;
+        z-index: -1;
+    }
+    .section {
+         padding: 0px;
+    }
+    .below-header {
+        padding: 60px 0;
+    }
+    .heart-background-couple img {
+        width: 150px;
+    }
+    .heart-background-couple {
+        position: absolute;
+        top: 101px;
+        left: 0;
+        content: "";
+        width: 50%;
+        height: 50%;
+    }
+    .couple-text h4 {
+        font-size: 58px;
+    }
+    .couple-text p {
+        font-size: 16px;
+    }
+    .couple-img{
+        margin-left: 230px;
+        margin-top: -106px;
+        width: 60%;
+
+    }
+    .couple-box {
+        margin: 20px 0;
+    }
+    .store img {
+        padding: 20px 0;
+        width: 25%;
+        margin: 0px 10px;
+    }
+    .apps-text h4 {
+     font-size: 58px;
+    }
+    .apps-text p {
+        font-size: 18px;
+    }
+    .couple-box-text-left {
+        padding: 60px;
+        margin-left: 135px;
+        margin-top: -105px;
+    }
+    .couple-img-left img {
+        width: 65%;
+        padding: 6px;
+
+    }
+    .couple-box-text {
+        width: 69%;
+    }
+    section {
+        padding: 20px 0px;
+    }
+    
+    .slider h4 {
+        font-size: 45px;
+        padding: 30px;
+    }
+    .owl-carousel .owl-item img {
+        width: 18%;
+    }
+    .item p {
+        font-size: 13px;
+        margin: 0 auto;
+        width: 47%;
+        line-height: 26px;
+    }
+    .story {
+        padding-bottom: 70px;
+    }
+    .btn-story{
+        padding: 30px 0;
+    }
+    .story-img {
+        margin: 20px;
+        width: 65%;
+    }
+    .story-box {
+        margin-top: 60px;
+    }
+    .story-text p {
+        font-size: 20px;
+        font-weight: 400;
+        width: 65%;
+    }
+    .story-box-text h4 {
+        font-size: 35px;
+    }
+    .story-box-text p {
+        font-size: 13px;
+        padding-top: 10px;
+        line-height: 25px;
+    }
+    .story-text {
+        padding-top: 50px;
+        width: 190%;
+    }
+    .story-text h4 {
+        font-size: 57px;
+        width: 65%;
+    }
+    .heart-background-story img{
+        width: 70%;
+    }
+    .footer {
+        padding: 45px 0;
+    }
+    a.nav-link.btn-login {
+        padding: 4px 5px;
+        width: 55px;
+    }
+
+    /* ========= Home Page ENDS ======= */
+
+    /* ========= Couple Page Starts ======= */
+
+        /* Everything is Ok. */
+
+    /* ========= Couple Page ENDS ======= */
+
+     /* ========= Stories Page Starts ======= */
+
+     .couple-about h1 {
+        font-size: 30px;
+    }
+    .couple-about {
+        min-height: 100px;
+    }
+    .below-footer-text h4 {
+        font-size: 28px;
+    }
+    .below-footer-text p {
+        font-size: 12px;
+    }
+    .below-footer-text span {
+        font-size: 16px;
+    }
+    .footer-text a {
+        margin-left: 17px;
+        font-size: 16px;
+    }
+
+    /* ========= Stories Page ENDS ======= */
+    
+
+}
+
+@media only screen and (max-width:379px) {
+
+    /* ========= Home Page ======= */
+    a.nav-link.btn-login {
+        color: #fff !important;
+        background: #fc028be1;
+        border-radius: 8px;
+        transition: 1s;
+        cursor: pointer;
+        padding: 1px 5px;
+        font-size: 19px !important;
+        width: 57px;
+    }
+    .below-header .col-md-8, .below-header .col-md-4 {
+        flex: 50%;
+        max-width: 100%;
+    }
+    .header-text h1 {
+        font-size: 68px;
+        text-align: center;
+    }
+    span#typed {
+        font-size: 45px
+    }
+    .header-text p {
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+    }
+    .head-img {
+        width: 85%;
+    }
+    .text-left h2 {
+        font-size: 35px;
+    }
+    .form-right {
+        margin-top: 250px;
+    }
+    .text-left p {
+        font-size: 18px;
+    }
+    .heart-background-below-header img {
+        width: 200px;
+    }
+    .heart-background-below-header {
+        top: -87px;
+        right: 20px;
+        content: "";
+        width: 50%;
+        height: 50%;
+    }
+    .form-right label {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    .form-right form select {
+        padding: 6px;
+        margin-bottom: 10px;
+        background: linear-gradient(90deg, rgb(238, 174, 202) 0%, rgb(238, 174, 202) 13%, rgb(148, 187, 233) 83%, rgb(148, 187, 233) 100%);
+        font-size: 14px;
+    }
+    .form-right form input {
+        padding: 6px;
+        background: linear-gradient(90deg, rgb(238, 174, 202) 0%, rgb(238, 174, 202) 13%, rgb(148, 187, 233) 83%, rgb(148, 187, 233) 100%);
+        font-size: 14px;
+        margin: 5px;
+    }
+    .form-right form i {
+        font-size: 30px;
+        color: #EF76AA;
+        width: 100%;
+        text-align: center;
+        transform: rotate(-90deg);
+    }
+    .heart-background-couple img {
+        width: 110px;
+    }
+    .couple-text h4 {
+        font-size: 50px;
+    }
+    .couple-text p {
+        font-size: 15px;
+    }
+    .heart-background-couple {
+        position: absolute;
+        top: 121px;
+        left: 0;
+        content: "";
+        width: 50%;
+        height: 50%;
+    }
+    .couple-img {
+        margin-left: 25px;
+        margin-top: 50px;
+        width: 85%;
+    }
+    .couple-box-text {
+        padding: 50px;
+    }
+    .couple-img-left {
+        margin-left: 25px;
+        margin-top: 50px;
+        width: 85%;
+    }
+    .couple-box-text-left{
+        padding: 50px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .couple-box-text-left:hover{
+        padding: 50px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .apps-text h4 {
+        font-size: 40px;
+    }
+    .apps-text p {
+        font-size: 17px;
+    }
+    .store img {
+        width: 30%;
+    }
+    .heart-background-story img{
+        width: 50% !important;
+    }
+    .story-img img {
+        width: 70%;
+    }
+    .story-img::before {
+        top: -21px;
+        left: -3%;
+        width: 76%;
+        height: 100%;
+    }
+    .story-box-text h4 {
+        font-size: 30px;
+        padding-top: 25px;
+    }
+    .story-box-text span {
+        font-size: 18px;
+    }
+    .story-box-text p {
+        font-size: 15px;
+        line-height: 27px;
+        padding: 0px;
+    }
+    .story-box {
+        margin: 0px;
+    }
+    .story-text.aos-init.aos-animate {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .heart-background-story {
+        float: none;
+    }
+    .story-text h4 {
+        font-size: 45px;
+    }
+    .story-text p {
+        font-size: 15px;
+    }
+    .story-img {
+        margin-top: 30px;
+    }
+    .btn-story.floating {
+        margin-top: 35px;
+    }
+    .slider h4 {
+        font-size: 35px;
+    }
+    .item p {
+        font-size: 14px;
+        width: 95%;
+        line-height: 29px;
+    }
+    .owl-carousel .owl-item img {
+        width: 30%;
+    }
+    .footer {
+        padding: 40px 0;
+    }
+    .couple-img-left img {
+        padding: 5px;
+    }
+    .footer-icons i {
+        font-size: 15px;
+        background: #e67dae;
+        color: #fff;
+        margin-left: 6px;
+        padding: 12px;
+        border-radius: 90px;
+        width: 41px;
+        transition: .5s;
+    }
+    /* ========= Home Page ENDS ======= */
+
+    /* ========= Couple Page STARTS ======= */
+    .couple-about h4 {
+        font-size: 14px;
+    }
+    .couple-about h1 {
+        font-size: 40px;
+    }
+    .couple-text-page p {
+        font-size: 19px;
+    }
+    .couple-box {
+        margin-top: 50px;
+    }
+    .below-footer-text h4 {
+        font-size: 20px;
+    }
+    .below-footer-text p {
+        font-size: 10px;;
+    }
+    .below-footer-text span {
+        font-size: 15px;
+    }
+    .footer-text a {
+        margin-left: 3px;
+        font-size: 13px;
+        transition: .5;
+        border: 1px solid #fc028be1;
+        padding: 4px 10px;
+        border-radius: 300px;
+    }
+    .footer-text a:hover {
+        background: #fff;
+        border: 1px solid transparent;
+    }
+    .footer-icons i {
+        background: #fc028be1;
+    }
+     /* ========= Couple Page ENDS ======= */
+
+    /* ========= Stories Page STARTS ======= */
+    .stories h4 {
+        font-size: 14px !important;
+    }
+    .stories h1 {
+        font-size: 25px !important;
+    }
+    .stories h4 {
+        font-size: 30px !important;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
