@@ -19,6 +19,13 @@ a{
 }
 .nav-bar{
     transition: 1s;  
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(238,174,202,1) 13%, rgba(148,187,233,1) 83%, rgba(148,187,233,1) 100%);
+    z-index: 10000000000000000000!important;
+    position: relative;
+}
+div#exampleModal {
+    z-index: 111111111111111;
+    margin-top: 170px;
 }
 .is-sticky .nav-bar{
     background: #EF76AA;
